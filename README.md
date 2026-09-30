@@ -1,4 +1,4 @@
-# Hi, I'm @bhavikmv 👋
+# Hi, I'm Bhavik Vasavada 👋
 
 ### Python developer • Problem solver • Internship seeker
 
